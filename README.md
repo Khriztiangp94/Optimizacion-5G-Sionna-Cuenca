@@ -12,10 +12,10 @@ Núcleo de Simulación y Deep Learning
     Dr.Jit: 1.0.3 (Compilación JIT para simulaciones físicas).
 
 Procesamiento y Optimización
-
     [Bayesian Optimization.](https://github.com/bayesian-optimization/BayesianOptimization/)
     PySwarms: 1.3.0
     NumPy: 1.26.4.
     SciPy: 1.15.3.
     Pandas: 2.3.3.
+    
 Las versiones y todas las librerias utilizadas se pueden consultar en el archivo requirements.txt
